@@ -4,7 +4,9 @@
   "description": "Generic SortedSet database interface",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": [ "/dist" ],
+  "files": [
+    "/dist"
+  ],
   "repo": "https://github.com/j3k0/relax.sset.git",
   "scripts": {
     "build": "tsc",
