@@ -1,4 +1,4 @@
-# relax.sset
+# supercouch.sset
 
 > A generic interface to Sorted Set database
 

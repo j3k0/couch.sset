@@ -1,11 +1,10 @@
-/** Sorted Set database
+/**
+ * Sorted Set database
  *
  * Stores a set of values, sorted by order number.
  *
  * For each value, only one copy will be stored in the set. It can be either the one with the
  * largest or lower score (depending on the insertion operation used).
- *
- *
  */
 export interface SSetDB {
 
