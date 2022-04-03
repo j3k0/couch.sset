@@ -1,13 +1,14 @@
 {
-  "name": "couch.sset",
+  "name": "relax.sset",
   "version": "0.1.0",
-  "description": "A SortedSet database for CouchDB",
+  "description": "Generic SortedSet database interface",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [ "/dist" ],
+  "repo": "https://github.com/j3k0/relax.sset.git",
   "scripts": {
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "author": "Jean-Christophe Hoelt <hoelt@fovea.cc>",
   "license": "MIT",
