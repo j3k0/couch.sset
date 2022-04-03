@@ -1,0 +1,19 @@
+{
+  "name": "couch.sset",
+  "version": "1.0.0",
+  "description": "A SortedSet database for CouchDB",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "redis": "^4.0.6"
+  }
+}
